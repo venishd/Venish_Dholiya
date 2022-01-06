@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @venishd I mean Venish.
+- 👋 Hi, I’m @venish Dholiya I mean Venish.
 - 👀 I’m interested in Artificial Intelligence 
 - 🌱 I’m currently learning advance Python
 - 💞️ I’m looking to collaborate on any platform
